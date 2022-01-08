@@ -1746,13 +1746,6 @@ Key | Required | Description
 --------- | ------- | -----------
 siren | true | Unique identifer of the company
 
-### Example json data
-
-```json
-{
-  "siren": "xxxxxxxxx"
-}
-```
 <aside class="success">
 Remember — to pass your API_KEY! in header
 </aside>
